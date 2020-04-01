@@ -21,7 +21,7 @@ Note: If you get a message that the Event is Not Running, then please be patient
 
 * On the AWS Console Login popup, click the Open AWS Console button
 
-![screenshot](images/EE3.png)
+![screenshot](images/EE3-new.png)
 
 Note: If you get a message after clicking the Open AWS Console button that you need to first logout, then click on the logout link in the message.  Then go back to the Event Engine tab in your browser and click on the Open AWS Console button again.
 

@@ -1,6 +1,6 @@
 ## Workshop Environment Init
 
-Congratulations! It seems that you are participating in an AWS official Workshop! In this page you will find instructions on hhow to enter in the AWS account that was designated for you and also spinning up a Cloud9 instance to use as your main development area in the cloud for this workshop
+Congratulations! It seems that you are participating in an AWS official Workshop! In this page you will find instructions on how to enter in the AWS account that was designated for you and also spinning up a Cloud9 instance to use as your main development area in the cloud for this workshop
 
 
 ## Labs

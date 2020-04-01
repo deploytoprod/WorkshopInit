@@ -28,7 +28,7 @@ The Cloud9 Console page should now open:
 
 * Click "Next step"
 
-![screenshot](images/C91.png)
+![screenshot](images/C91-new.png)
 
 * On the "Configure settings" page, change the Cost-saving setting to "After four hours"
 
@@ -38,7 +38,7 @@ The Cloud9 Console page should now open:
 
 * At the bottom of the Review page, click "Create environment"
 
-![screenshot](images/C93.png)
+![screenshot](images/C93-new.png)
 
 Cloud9 will now create your new environment.  It will take a few minutes for the environment to be ready.   While waiting, you can start to review the Cloud9 IDE tutorial in the step below.
 

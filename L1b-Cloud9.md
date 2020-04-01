@@ -45,4 +45,4 @@ Cloud9 will now create your new environment.  It will take a few minutes for the
 ### Get familiar with Cloud9
 If you are new to Cloud9, review the IDE tutorial at [https://docs.aws.amazon.com/cloud9/latest/user-guide/tutorial-tour-ide.html](https://docs.aws.amazon.com/cloud9/latest/user-guide/tutorial-tour-ide.html)
 
-## Congratulations - you have created a Cloud9 Development Environment. Now proceed to [cdkworkshop.com](http://cdkworkshop.com) and choose the 
+## Congratulations - you have created a Cloud9 Development Environment. Now proceed to [cdkworkshop.com](https://cdkworkshop.com/30-python.html)

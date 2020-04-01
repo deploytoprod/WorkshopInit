@@ -45,34 +45,4 @@ Cloud9 will now create your new environment.  It will take a few minutes for the
 ### Get familiar with Cloud9
 If you are new to Cloud9, review the IDE tutorial at [https://docs.aws.amazon.com/cloud9/latest/user-guide/tutorial-tour-ide.html](https://docs.aws.amazon.com/cloud9/latest/user-guide/tutorial-tour-ide.html)
 
-
-## Create an EC2 Key Pair
-
-Cloud9 automatically configures the AWS CLI for our user.  We will use the AWS CLI to create an EC2 Key Pair.  We will need this Key Pair to ssh into our EMR Cluster in a later exercise.
-
-
-* Open up your Cloud9 environment if not already open
-
-![screenshot](images/C94.png)
-
-* Click on the + sign to the right of the Welcome Tab and use the pop-up menu to open a new Terminal tab as shown below:
-
-![screenshot](images/C95.png)
-
-* In the terminal, paste and run the following code to create an EC2 Key Pair
-
-```
-aws ec2 create-key-pair --key-name EMRKeyPair --query 'KeyMaterial' --output text > ~/EMRKeyPair.pem
-chmod 0600 ~/EMRKeyPair.pem
-ls -l ~/EMRKeyPair.pem
-
-```
-
-When the code is finished running, you should see output like this:
-
-![screenshot](images/C96.png)
-
-
-## Congratulations - you have created a Cloud9 Development Environment and an EC2 Key Pair
-Please continue to the [next section](L1c-EMRCreate.md).
-
+## Congratulations - you have created a Cloud9 Development Environment. Now proceed to [cdkworkshop.com](https://cdkworkshop.com/30-python.html)
